@@ -14,3 +14,5 @@ brew install android-platform-tools
 ``` shell
 adb shell pm list packages
 ```
+### 运行方式
+控制台切换至脚本目录下,`sh auto.sh`运行该脚本即可
